@@ -1,5 +1,5 @@
-Hack scanners
--------------
+Hack/vulnerability scanners
+---------------------------
 
 A list of IP addresses looking for fingerprints of webapps containing vulnerabilities. Produced by scanning web access logs of various websites looking for suspicious/interesting HTTP requests, mostly WordPress, PHPMyAdmin looking URLs.
 
@@ -11,5 +11,6 @@ These IP addresses could be:
 * Someone's hacked web server
 * A home IP address
 * Someone's hacked home computer
+* An actual legit white-hat hacker collecting data about known vulnerabilities
 
 
